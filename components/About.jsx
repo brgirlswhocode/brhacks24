@@ -2,9 +2,9 @@ import React from 'react';
 
 const About = () => {
   return (
-    <div className="bg-green-500">
+    <div className="bg-emerald-950">
       <div className="headercls">
-        <header className="about ">ABOUT US.</header>
+        <header className="about ">ABOUT US</header>
       </div>
       <div className="bodycls">
         <div><img src="greencircle.png" className="logo" alt="Logo" /></div>
@@ -13,10 +13,6 @@ const About = () => {
           <p>
             During this exciting event, participants will join forces in teams to tackle a diverse range of STEM-related projects aimed at benefiting their community. These endeavors include the development of advanced computing solutions, the formation of mini-startup companies, the creation of innovative market prediction systems, the development of mobile apps to support diabetes management, and the design of environmentally-conscious solutions.
           </p>
-        </div>
-        <br /><br /><br /><br />
-        <div>
-          <img src="green.png" className="picture" width="1180" height="300" alt="Event Banner" />
         </div>
         <br /><br /><br /><br />
         <div><img src="green2.png" className="imagetwo" width="400" height="300" alt="Second Event Image" /></div>
